@@ -1,0 +1,20 @@
+
+footer{
+    background-color: #232f3e !important;
+    color: white !important;
+}
+
+footer h5, p{
+    color: white !important;
+    padding-left: 10px !important;
+}
+
+footer .nav-link{
+    color: whitesmoke !important;
+    padding-left: 10px !important;
+
+}
+
+.custom-iconbar{
+    margin-right: 23px;
+}

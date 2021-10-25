@@ -1,24 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
+// import First from './First';
+// import Second from './Second';
+import Test from './Test';
+import Routes from './Routes';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    //jsx syntax
+    <>
+      {/* <h1 style={{
+        color: 'red', backgroundColor: 'green', textAlign: 'center'
+      }}>Hello World</h1>
+      <First />
+      <Test /> */}
+      <Routes/>
+    </>
   );
 }
 

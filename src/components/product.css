@@ -1,0 +1,18 @@
+.custom-image{
+    height: 150px !important;
+    transition: all 1.5s;
+}
+
+.custom-image:hover{
+    transform: scale(1.25);
+}
+
+.img-div{
+    overflow: hidden;
+}
+
+
+.deals{
+    margin: 0px;
+    padding: 0px;
+}

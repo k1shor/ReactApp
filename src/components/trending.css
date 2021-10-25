@@ -1,0 +1,25 @@
+.custom-img{
+    height: 100px;
+}
+
+.slick-slide{
+    padding: 0 10px;
+}
+
+.slick-list{
+    margin:0 2em;
+}
+
+.slick-prev{
+    left: 0.5% !important;
+}
+
+.slick-next{
+    right: 1.5% !important;
+}
+
+.slick-next:before, .slick-prev:before{
+    font-size: 35px;
+    line-height: 1;
+    color: orangered !important;
+}
